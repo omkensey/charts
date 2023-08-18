@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  weave-scope:
+  - apiVersion: v1
+    appVersion: 1.12.0
+    created: "2023-08-18T06:06:45.815801928-04:00"
+    deprecated: true
+    description: DEPRECATED - A Helm chart for the Weave Scope cluster visualizer.
+    digest: 791819a069f64a61ee04c978d84b6b88b136a55500c5a9fadbc11a38eec3a9e4
+    home: https://www.weave.works/oss/scope/
+    icon: https://avatars1.githubusercontent.com/u/9976052?s=64
+    keywords:
+    - containers
+    - dashboard
+    - monitoring
+    name: weave-scope
+    sources:
+    - https://github.com/weaveworks/scope
+    urls:
+    - https://omkensey.github.io/charts/weave-scope-1.1.12.tgz
+    version: 1.1.12
+generated: "2023-08-18T06:06:45.815117669-04:00"
